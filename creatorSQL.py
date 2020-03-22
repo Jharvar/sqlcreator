@@ -35,7 +35,7 @@ def alterTable():
               "ALTER TABLE %s DISABLE TABLE LOCK"%(table)+'\n']
     
     creatorScript(querys)
-
+ 
    
     
 #Grant Table
